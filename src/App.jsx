@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import Navbar from "./components/Navbar";
-import HomePage from "./pages/Homepage";
-import About from "./pages/About";
-import Footer from "./components/Footer";
-import NavbarAbout from './components/NavbarAbout';
-import FooterAbout from './components/FooterAbout';
+import Navbar from "./components/Navbar.jsx";
+import HomePage from "./pages/HomePage.jsx";
+import About from "./pages/About.jsx";
+import Footer from "./components/Footer.jsx";
+import NavbarAbout from './components/NavbarAbout.jsx';
+import FooterAbout from './components/FooterAbout.jsx';
 
 function App() {
     return (
