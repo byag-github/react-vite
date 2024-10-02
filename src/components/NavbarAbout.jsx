@@ -105,7 +105,7 @@ const NavbarAbout = () => {
                     </ul>
 
                     {/* sosmed */}
-                    <div className="social flex items-center gap-4">
+                    <div className="social flex items-center gap-4 lg:text-base md:text-sm text-xs">
                         <a href="#social" className="px-5 py-2 font-bold text-white bg-black rounded-full shadow-[0px_0px_0px_3.5px_rgba(126,34,206,1)] transform hover:scale-105 hover:bg-purple-500 hover:shadow-[2px_2px_2px_2px_rgba(0,0,0,1)]
                         hover:text-red-900 transition duration-300">
                             Connect With US!
